@@ -1,4 +1,4 @@
-
+require 'trepl'
 -- Modified from https://github.com/oxford-cs-ml-2015/practical6
 -- the modification included support for train/val/test splits
 
